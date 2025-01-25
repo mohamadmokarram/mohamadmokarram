@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadmokarram&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadmokarram" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadmokarram" alt="mohamadmokarram" /></a> </p>
+
 
 ![](https://github-profile-trophy.vercel.app/?username=mohamadmokarram&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
