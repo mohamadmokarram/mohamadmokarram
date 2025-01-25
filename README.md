@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadmokarram" alt="mohamadmokarram" /></a> </p>
 
+![](https://github-profile-trophy.vercel.app/?username=mohamadmokarram&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamadmokarram](https://github.com/mohamadmokarram)
