@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamadmokarram](https://github.com/mohamadmokarram)
 
-- 💬 Ask me about **React,JavaScript,Bootstrap,Tailwind,Css3,HTML5**
+- 💬 Ask me about **React,JavaScript,<span style="color: blueviolet;">Bootstrap</span>,Tailwind,Css3,HTML5**
 
 - 📫 How to reach me **mokarram.mohamad@gmail.com**
 
