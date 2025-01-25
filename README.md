@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamad Mokaram</h1>
+<h1 align="center" style="font-style: italic;">Hi 👋, I'm Mohamad Mokaram</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 
