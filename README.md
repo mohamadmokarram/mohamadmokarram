@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/Hi I’m Mohamad Mokarram.gif" alt="mohamad mokarram" />
+  <img src="images/Hi I’m Mohamad Mokarram.gif" alt="mohamad mokarram" onload="this.src=this.src"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadmokarram&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadmokarram" /> </p>
 
