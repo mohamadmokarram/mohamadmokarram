@@ -1,6 +1,4 @@
 
-![Image](https://github.com/user-attachments/assets/b5b9cea6-a3ec-4ea4-8584-6140914e3f64)
-
 
 
 <h1 align="center">Hi 👋, I'm Mohamad Mokaram</h1>
