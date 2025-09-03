@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadmokarram&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadmokarram" /> </p>
 
+[![](https://github.com/mohamadmokarram/mohamadmokarram/blob/main/parallax_final.gif)](https://mohamadmokarram.github.io/parallax-design/)
 
 
-![](https://github.com/mohamadmokarram/mohamadmokarram/blob/main/parallax_final.gif)
 
 
 
