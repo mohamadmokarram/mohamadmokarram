@@ -4,7 +4,7 @@
 
 <img src="https://github.com/mohamadmokarram/mohamadmokarram/blob/main/parallax.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadmokarram&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadmokarram" /> </p>
+
 
 [![](https://github.com/mohamadmokarram/mohamadmokarram/blob/main/parallax_final.gif)](https://mohamadmokarram.github.io/parallax-design/)
 
@@ -14,12 +14,10 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/mohamadmokarram?tab=repositories)
 
-- 💬 Ask me about **React,JavaScript,<span style="color: blueviolet;">Bootstrap</span>,Tailwind,Css3,HTML5**
-
 - 📫 How to reach me **mokarram.mohamad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/mohamad-mokaram-05b873200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-mokaram-05b873200" height="30" width="40" /></a>
   <a href="https://instagram.com/mokaram_frontdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mokaram_frontdeveloper" height="30" width="40" /></a>
 </p>
@@ -34,4 +32,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadmokarram&theme=dark&show_icons=true&locale=en" alt="mohamadmokarram" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadmokarram&theme=dark" alt="mohamadmokarram" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadmokarram&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadmokarram" /> </p>
+
+
+
+
+
 
