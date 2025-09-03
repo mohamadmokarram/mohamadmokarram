@@ -6,7 +6,7 @@
 
 
 
-![](https://github-profile-trophy.vercel.app/?username=mohamadmokarram&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+[](https://github.com/mohamadmokarram/mohamadmokarram/blob/main/parallax_final.gif)
 
 
 
