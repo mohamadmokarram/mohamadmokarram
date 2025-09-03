@@ -1,6 +1,6 @@
 # Example of works
 
-![parallax](./parallax.mp4)
+[parallax](./parallax.mp4)
 
 
 
