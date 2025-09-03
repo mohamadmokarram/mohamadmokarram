@@ -1,6 +1,5 @@
 # Example of works
 
-[parallax](./parallax.mp4)
 
 
 
