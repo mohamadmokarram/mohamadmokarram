@@ -6,7 +6,7 @@
 
 
 
-[](https://github.com/mohamadmokarram/mohamadmokarram/blob/main/parallax_final.gif)
+![](https://github.com/mohamadmokarram/mohamadmokarram/blob/main/parallax_final.gif)
 
 
 
