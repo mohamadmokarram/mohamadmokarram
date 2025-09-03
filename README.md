@@ -1,5 +1,13 @@
 <img src="images/github-banner.png " />
 
+### about me :
+
+---
+
+<p>Frontend Developer with experience in building high-traffic and scalable web applications using modern technologies like React.js, React Router, and Next.js. Specialized in designing and developing responsive, accessible, and pixel-perfect user interfaces with Tailwind CSS, MUI, and Styled-Components.</p>
+
+<p>Proficient in state management using Zustand and Redux, as well as data management with React Query. Proven ability to collaborate effectively within cross-functional teams, including product design and backend teams, to achieve shared goals. A responsible and creative team player with a strong passion for guiding and mentoring fellow developers.</p>
+
 # Example of works
 
 [![](./parallax_final.gif)](https://mohamadmokarram.github.io/parallax-design/)
