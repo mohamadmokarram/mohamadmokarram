@@ -1,6 +1,6 @@
 # Example of works
 
-<img src="https://github.com/mohamadmokarram/mohamadmokarram/blob/main/IMG_1383.gif" width="200"/>
+<img src="https://github.com/mohamadmokarram/mohamadmokarram/blob/main/parallax.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadmokarram&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadmokarram" /> </p>
 
