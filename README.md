@@ -8,13 +8,16 @@
 
 ## Example of works
 
-[![](./parallax_final.gif)](https://mohamadmokarram.github.io/parallax-design/)
+<a href="https://mohamadmokarram.github.io/parallax-design/" target="_blank">
+<img src="./parallax_final.gif" alt="mohamad mokaram"/>
+</a>
+<a href="https://online-shop-two-eta.vercel.app/" target="_blank">
+<img src="./online_shop.gif" alt="mohamad mokaram"/>
+</a>
 
 <!-- [![](https://github.com/mohamadmokarram/mohamadmokarram/blob/main/parallax_final.gif)](https://mohamadmokarram.github.io/parallax-design/) -->
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/mohamadmokarram?tab=repositories)
-
-- 📫 How to reach me **mokarram.mohamad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
