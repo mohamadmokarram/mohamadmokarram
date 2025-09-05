@@ -17,7 +17,9 @@
 
 <!-- [![](https://github.com/mohamadmokarram/mohamadmokarram/blob/main/parallax_final.gif)](https://mohamadmokarram.github.io/parallax-design/) -->
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/mohamadmokarram?tab=repositories)
+###
+
+All of my projects are available at [Repositories](https://github.com/mohamadmokarram?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
