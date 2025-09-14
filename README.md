@@ -25,6 +25,7 @@ All of my projects are available at [Repositories](https://github.com/mohamadmok
 <p align="left">
 <a href="https://linkedin.com/in/mohamad-mokaram-05b873200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-mokaram-05b873200" height="30" width="40" /></a>
   <a href="https://instagram.com/mokaram_frontdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mokaram_frontdeveloper" height="30" width="40" title="react router"/></a>
+<a href="https://telegram.me/mohamadmokarram" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/562/non_2x/telegram-logo-telegram-logo-transparent-telegram-icon-transparent-free-free-png.png" alt="mokaram_frontdeveloper" height="40" width="40" title="react router"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
